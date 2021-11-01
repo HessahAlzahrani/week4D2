@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="welcomeid">Welcome</string>
+    <string name="inputnameid">your name</string>
+    <string name="emailTd">xxx@email</string>
+    <string name="passId">enter your pass </string>
+    <string name="pass2Id">pass again</string>
+    <string name="melaId">male</string>
+    <string name="femalId">female</string>
+    <string name="DateId">B.D</string>
+    <string name="buttonId">enter</string>
+    <string name="ViweinfoId">info will viwe after enter</string>
+
+</resources>
